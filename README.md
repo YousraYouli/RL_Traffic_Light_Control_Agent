@@ -50,5 +50,4 @@ Our best-performing agent (**throughput-based control**) achieved:
 - 🚦 Significant improvement in traffic flow and queue management  
 - 💡 Adaptive behavior across varied traffic patterns  
 
-
 ---
